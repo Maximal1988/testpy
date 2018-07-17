@@ -1,0 +1,6 @@
+import os ### Модуль оси
+import psutil ### модуль сторонний для получения списка процесов
+import sys
+import platform
+import tkinter
+import shutil

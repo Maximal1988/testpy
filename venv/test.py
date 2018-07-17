@@ -1,3 +1,7 @@
+##Страница на которой закончил читать
+page = "Страница на которой закончил читать"
+number_page = 41
+
 # Разбивка текста на несколько строк с использованием "'''"
 
 print()
@@ -82,3 +86,7 @@ mylist = [numbers, strings]
 print(mylist)
 print()
 print()
+
+
+
+print(page, number_page)

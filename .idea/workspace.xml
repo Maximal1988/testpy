@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16f944fa-5e08-42db-9716-b93b87af102a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/cp-test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/intensive.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +16,8 @@
       <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/venv/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+            <state relative-caret-position="461">
+              <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
             </state>
           </provider>
         </entry>
@@ -50,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="2227" />
     <option name="y" value="44" />
     <option name="width" value="1400" />
@@ -212,7 +207,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2227" y="44" width="1400" height="989" extended-state="0" />
+    <frame x="2227" y="44" width="1400" height="989" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
@@ -313,8 +308,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+        <state relative-caret-position="461">
+          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
         </state>
       </provider>
     </entry>
